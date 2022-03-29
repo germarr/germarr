@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @germarr
 - 👀 I’m interested in web development and Machine Learning
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Remix Run
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me me@gmarr.com
 
